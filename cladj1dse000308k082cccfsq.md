@@ -1,0 +1,4 @@
+# cout<<"Hello Blog!";
+
+Well, here I am! For those who don't know me, I am Sanskaari. "Sanskaar" ,in hindi, means manners; and so, "Sanskaari" , in hindi, means 'one with manners'. So yeah, I am hella Sanskaari yk. So, this is my first blog. I don't know how to write blogs as of yet so i'mma just write what comes to my mind rn. Just want to start writing as this is an insanely beneficial practice in  a long run. A great friend of mine, @[Ankit Mishra](@ankitmishraexe), introduced, or rather told me about hashnode and made me realised how beneficial writing your learnings are. Go check him out if you are reading this poorly crafted joke of a blog. He's a great guy ngl! So, currently, am exploring WEB, and GIT/GITHUB. Gonna write as much as possible sharing all my learnings and thoughts on this amazing dome of endless Hello Worlds!
+ 
